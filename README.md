@@ -1,11 +1,7 @@
 ### Hi there 👋
-Skills
-- Programming Languages: Python, JavaScript
-- Web Development: HTML, CSS, React
-- Data Analysis: Pandas, NumPy
-- Version Control: Git, GitHub
-- etc.
-  
+Greatings!I'm Haben Eyasu Akelom, a seasoned IT professional with a passion for crafting code and inspiring minds. Holding a Master's degree in Computer Engineering, I've honed my skills with over six years of hands-on software development experience. My journey includes a year of teaching, fueling my passion for sharing knowledge and fostering the next generation of tech talent.
+
+Today, as a Senior Software Engineer, I leverage my diverse expertise. While my GitHub portfolio remains private for client confidentiality, I'm open for discussions. My unwavering commitment to excellence and relentless pursuit of innovation shine through in every project I tackle.
 <!--
 **habeneyasu/habeneyasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
