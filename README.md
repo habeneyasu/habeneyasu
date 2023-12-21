@@ -1,8 +1,31 @@
 Greatings!I am Haben Eyasu, based in Addis Ababa, Ethiopia, currently serving as a Senior Software Engineer at Kacha Digital Financial Services S.C. In my prior role, I specialized in the development of payment systems, telecommunication airtime recharging, SMS, and USSD services. With a wealth of experience exceeding 7 years in software development, I bring a proven track record of expertise and innovation to my current role.
 
-Specific Skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-
-
+### Skills:
+ -![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+- ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+- ![SOAP](https://img.shields.io/badge/SOAP-8CBED6?style=for-the-badge)
+- ![REST](https://img.shields.io/badge/REST-61DAFB?style=for-the-badge)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring)
+- ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter)
+- ![Yii2](https://img.shields.io/badge/Yii2-1C92D2?style=for-the-badge&logo=yii)
+- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)
+- ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide)
+- ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+- ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira-software)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven)
+- ![PuTTY](https://img.shields.io/badge/PuTTY-0F52BA?style=for-the-badge&logo=putty)
+- ![UML](https://img.shields.io/badge/UML-333333?style=for-the-badge&logo=uml)
+- ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
