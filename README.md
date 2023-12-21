@@ -1,5 +1,11 @@
 ### Hi there 👋
+## Skills
 
+- Programming Languages: Python, JavaScript
+- Web Development: HTML, CSS, React
+- Data Analysis: Pandas, NumPy
+- Version Control: Git, GitHub
+- etc.
 <!--
 **habeneyasu/habeneyasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
