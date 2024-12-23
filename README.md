@@ -1,4 +1,8 @@
-Greetings! I’m Haben Eyasu, a Senior Software Engineer based in Addis Ababa, Ethiopia, with 8+ years of experience specializing in Java/Spring Boot backend development. Currently, at Kacha Digital Financial Services S.C., I have expertise in building scalable and secure solutions for digital finance, payment systems, and telecommunication services (USSD, SMS, airtime recharging). My skills include microservices architecture, CI/CD, and technologies such as React.js, Django, REST APIs, and cloud services.
+Greetings! I’m Haben Eyasu, a Senior Software Engineer based in Addis Ababa, Ethiopia, with over 8 years of experience specializing in backend development using Java, Spring Boot, and microservices architecture. In my current role at Kacha Digital Financial Services S.C., I focus on building scalable and secure solutions for digital finance, payment systems, and telecommunication services (USSD, SMS, airtime recharging).
+
+I’ve developed expertise in technologies like React.js, Django, REST APIs, and cloud services throughout my career. I am passionate about designing and implementing secure, high-performance systems that address complex challenges, delivering impactful solutions across fintech, e-commerce, and telecommunications.
+
+I am always open to new opportunities and am open to relocating for roles that allow me to contribute to innovative, user-focused solutions and continue growing in my field. I thrive in collaborative environments and am committed to continuously expanding my knowledge and skills.
 
 ### Skills:
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring)
