@@ -2,15 +2,15 @@
 Senior Backend Engineer | Fintech & Payment Systems Expert
 
 8+ years architecting high-performance financial platforms using:
-!☑️ Java Spring Boot | Microservices | REST/GraphQL APIs
-!☑️ Secure Architecture: JWT, OAuth2, PCI-DSS compliance
-!☑️ Real-Time Systems: Kafka, WebSockets (5M+ monthly transactions)
-!☑️ DevOps: Docker, Kubernetes, CI/CD (Jenkins/GitLab)
+☑️ Java Spring Boot | Microservices | REST/GraphQL APIs
+☑️ Secure Architecture: JWT, OAuth2, PCI-DSS compliance
+☑️ Real-Time Systems: Kafka, WebSockets (5M+ monthly transactions)
+☑️ DevOps: Docker, Kubernetes, CI/CD (Jenkins/GitLab)
 
 Recent Impact @ Kacha Digital Financial Services:
-!✅ Built instant payment APIs with 99.8% uptime
-!✅ Integrated 30+ banks for seamless interbank transactions
-!✅ Scaled USSD/cardless solutions serving unbanked populations
+✅ Built instant payment APIs with 99.8% uptime
+✅ Integrated 30+ banks for seamless interbank transactions
+✅ Scaled USSD/cardless solutions serving unbanked populations
 
 Open to challenging backend projects in fintech, telecom, or e-commerce. Let's connect!
 
