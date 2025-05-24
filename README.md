@@ -1,21 +1,21 @@
-👋 Hi, I'm Haben Eyasu
-Senior Backend Engineer | Fintech & Payment Systems Expert
+👋 Hi, I'm Haben Eyasu  
+**Senior Backend Engineer | Fintech & Payment Systems Expert**  
 
-8+ years architecting high-performance financial platforms using:
-☑️ Java Spring Boot | Microservices | REST/GraphQL APIs
-☑️ Secure Architecture: JWT, OAuth2, PCI-DSS compliance
-☑️ Real-Time Systems: Kafka, WebSockets (5M+ monthly transactions)
-☑️ DevOps: Docker, Kubernetes, CI/CD (Jenkins/GitLab)
+**8+ years** architecting **high-performance financial platforms** using:  
+☑️ **Java Spring Boot** | Microservices | REST/GraphQL APIs  
+☑️ **Secure Architecture**: JWT, OAuth2, PCI-DSS compliance  
+☑️ **Real-Time Systems**: Kafka, WebSockets (5M+ monthly transactions)  
+☑️ **DevOps**: Docker, Kubernetes, CI/CD (Jenkins/GitLab)  
 
-Recent Impact @ Kacha Digital Financial Services:
-✅ Built instant payment APIs with 99.8% uptime
-✅ Integrated 30+ banks for seamless interbank transactions
-✅ Scaled USSD/cardless solutions serving unbanked populations
+**Recent Impact @ Kacha Digital Financial Services**:  
+✅ Built **instant payment APIs** with **99.8% uptime**  
+✅ Integrated **30+ banks** for seamless interbank transactions  
+✅ Scaled **USSD/cardless solutions** serving unbanked populations  
 
-Open to challenging backend projects in fintech, telecom, or e-commerce. Let's connect!
+**Open to** challenging backend projects in **fintech, telecom, or e-commerce**. Let's connect!  
 
-📫 habeneyasu@gmail.com | 🌍 Addis Ababa, Ethiopia
-🔗 LinkedIn | 💻 GitHub
+📫 **habeneyasu@gmail.com** | 🌍 **Addis Ababa, Ethiopia**  
+🔗 [LinkedIn](https://linkedin.com/in/habeneyasu) | 💻 [GitHub](https://github.com/habeneyasu)  
 
 ### Skills:
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring)
