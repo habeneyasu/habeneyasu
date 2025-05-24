@@ -1,8 +1,21 @@
-Greetings! I’m Haben Eyasu, a Senior Software Engineer based in Addis Ababa, Ethiopia, with over 8 years of experience specializing in backend development using Java, Spring Boot, and microservices architecture. In my current role at Kacha Digital Financial Services S.C., I focus on building scalable and secure solutions for digital finance, payment systems, and telecommunication services (USSD, SMS, airtime recharging).
+👋 Hi, I'm Haben Eyasu
+Senior Backend Engineer | Fintech & Payment Systems Expert
 
-I’ve developed expertise in technologies like React.js, Django, REST APIs, and cloud services throughout my career. I am passionate about designing and implementing secure, high-performance systems that address complex challenges, delivering impactful solutions across fintech, e-commerce, and telecommunications.
+8+ years architecting high-performance financial platforms using:
+☑️ Java Spring Boot | Microservices | REST/GraphQL APIs
+☑️ Secure Architecture: JWT, OAuth2, PCI-DSS compliance
+☑️ Real-Time Systems: Kafka, WebSockets (5M+ monthly transactions)
+☑️ DevOps: Docker, Kubernetes, CI/CD (Jenkins/GitLab)
 
-I am always open to new opportunities and am open to relocating for roles that allow me to contribute to innovative, user-focused solutions and continue growing in my field. I thrive in collaborative environments and am committed to continuously expanding my knowledge and skills.
+Recent Impact @ Kacha Digital Financial Services:
+✅ Built instant payment APIs with 99.8% uptime
+✅ Integrated 30+ banks for seamless interbank transactions
+✅ Scaled USSD/cardless solutions serving unbanked populations
+
+Open to challenging backend projects in fintech, telecom, or e-commerce. Let's connect!
+
+📫 habeneyasu@gmail.com | 🌍 Addis Ababa, Ethiopia
+🔗 LinkedIn | 💻 GitHub
 
 ### Skills:
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring)
@@ -17,13 +30,7 @@ I am always open to new opportunities and am open to relocating for roles that a
 ![SOAP](https://img.shields.io/badge/SOAP-8CBED6?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-61DAFB?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Yii2](https://img.shields.io/badge/Yii2-1C92D2?style=for-the-badge&logo=yii)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+
+
