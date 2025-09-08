@@ -1,20 +1,27 @@
 👋 Hi, I'm Haben Eyasu  
-**Senior Backend Engineer | Fintech & Payment Systems Expert**  
+**Senior Software Engineer | Fintech & Payment Systems Expert**  
 
-**8+ years** architecting **high-performance financial platforms** using:  
-☑️ **Java Spring Boot** | Microservices | REST/GraphQL APIs  
-☑️ **Secure Architecture**: JWT, OAuth2, PCI-DSS compliance  
-☑️ **Real-Time Systems**: Kafka, WebSockets (5M+ monthly transactions)  
-☑️ **DevOps**: Docker, Kubernetes, CI/CD (Jenkins/GitLab)  
+**8+ years** architecting **enterprise-grade financial platforms** serving **millions of users** across **27+ financial institutions**:
 
-**Recent Impact @ Kacha Digital Financial Services**:  
-✅ Built **instant payment APIs** with **99.8% uptime**  
-✅ Integrated **30+ banks** for seamless interbank transactions  
-✅ Scaled **USSD/cardless solutions** serving unbanked populations  
+☑️ **Java Spring Boot** | Microservices | REST/SOAP APIs | **99.8% uptime**  
+☑️ **Fintech Expertise**: Payment gateways, USSD banking, interbank transactions  
+☑️ **High-Performance Systems**: Kafka, Redis, **100K+ daily transactions**  
+☑️ **DevOps & Security**: Docker, Kubernetes, OAuth2/JWT, PCI-DSS compliance  
 
-**Open to** challenging backend projects in **fintech, telecom, or e-commerce**. Let's connect!  
+**🚀 Recent Impact @ Kacha Digital Financial Services**:  
+✅ Built **multi-tenant USSD platform** serving **27+ banks** with real-time KYC  
+✅ Integrated **Ethiopia Telecom** gateway processing **thousands of concurrent sessions**  
+✅ Architected **enterprise data pipeline** handling **100K+ financial transactions**  
+✅ **60% performance improvement** through Redis caching and async processing  
 
-📫 **habeneyasu@gmail.com** | 🌍 **Addis Ababa, Ethiopia**  
+**💼 Proven Track Record**:  
+• **E-commerce Microservices**: 4 core services with Spring Cloud, Kafka, Prometheus  
+• **Real-Time Log Processing**: 1GB+ files in <5 minutes with WebSocket analytics  
+• **Personal Finance API**: FastAPI with 90% test coverage and CI/CD automation  
+
+**🎯 Open to** challenging roles in **fintech, telecom, e-commerce, or enterprise platforms**  
+
+�� **habeneyasu@gmail.com** | 🌍 **Addis Ababa, Ethiopia** | �� **+251942707424**
 🔗 [LinkedIn](https://linkedin.com/in/habeneyasu) | 💻 [GitHub](https://github.com/habeneyasu)  
 
 ### Skills:
