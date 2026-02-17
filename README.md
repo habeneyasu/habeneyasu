@@ -1,37 +1,46 @@
-# 👋 Hi, I'm Haben Eyasu
-**Senior Software & Machine Learning Engineer | Fintech Systems Architect**
+# 🚀 Haben Eyasu Akelom
+**Senior Software & Machine Learning Engineer | AI Systems & Fintech Infrastructure**
 
-Building **high-availability platforms and production-grade AI/ML systems** that power modern financial services. Experienced in **core transaction systems, multi-tenant architectures, and intelligent analytics pipelines**.
-
----
-
-## 🔧 Core Engineering & Architecture
-- Platforms: Java Spring Boot, Microservices, Event-Driven Systems  
-- FinTech: Payment Gateways, USSD Banking, Credit Scoring APIs, Bulk SMS Platforms  
-- Performance & Scale: Kafka, Redis, PostgreSQL (8M+ monthly transactions)  
-- DevOps & Security: Docker, Kubernetes, CI/CD, OAuth2/JWT  
-
-## 🤖 AI/ML & Data Engineering
-- MLOps & Production AI: End-to-end pipelines for credit scoring & fraud detection  
-- Machine Learning: Predictive modeling, deployment via FastAPI & containerization  
-- NLP & LLMs: Sentiment analysis, RAG chatbots, semantic search  
-- Data Pipelines: Real-time ETL/ELT, analytics, automated reporting  
-
-## 🚀 Recent Impact & Projects
-- **Kacha Digital Financial Services:** Multi-tenant USSD platform serving 27+ banks; core Credit Scoring API with hybrid ML/rules-based decisioning  
-- **10 Academy KAIM Training Projects:** Fraud detection model with MLOps, financial complaints RAG chatbot, sentiment-driven stock prediction, insurance risk analytics, solar data analysis pipelines  
-- **Bulk SMS Platform:** Enterprise SaaS platform with hybrid multi-tenancy and telecom provider integrations  
-- **Open Source Projects:** E-commerce microservices, real-time log processors, personal finance APIs  
+I design and deploy production-grade AI systems and high-scale financial infrastructure with a security-first architecture.
 
 ---
 
-## 🎯 Looking For
-Roles as a **Software/ML Engineer, MLOps Engineer, or Fintech Systems Architect** where I can leverage full-stack expertise in **platform engineering and AI/ML** to solve complex business problems.
+### 🛠 What I Build
+* **Production LLM Systems:** RAG orchestration, fine-tuning workflows, and model evaluation.
+* **High-Scale Fintech APIs:** Secure, high-throughput microservices for regulated environments.
+* **Reliable MLOps Pipelines:** End-to-end experiment tracking, reproducibility, and monitoring.
+* **Hardened Agent Frameworks:** Safe tool-execution layers with validation, sandboxing, and RCE mitigation.
 
 ---
 
-## 📫 Let's Connect
-- 🌐 Portfolio: [habeneyasu.github.io](https://habeneyasu.github.io)  
-- 📧 Email: habeneyasu@gmail.com  
-- 🌍 Location: Addis Ababa, Ethiopia  
-- 🔗 LinkedIn: [linkedin.com/in/habeneyasu](https://www.linkedin.com/in/habeneyasu)
+### 🤖 AI & ML Engineering
+* **LLM Orchestration:** RAG system design (FAISS, ChromaDB), agentic workflows, and prompt engineering.
+* **Fine-tuning:** QLoRA/LoRA workflows and model quantization for production efficiency.
+* **MLOps & Tooling:** MLflow, DVC, FastAPI, Docker, and real-time observability.
+
+### 🔧 Software Architecture & Scale
+* **Backend & Scale:** Java (Spring Boot), Python (FastAPI), Kafka, Redis, and PostgreSQL.
+* **Enterprise Scale:** Architected systems processing **8M+ monthly transactions** with integrations across **30+ financial institutions** and **7 telecommunication operators**.
+* **Security & Identity:** OAuth2/JWT, AES-256 encryption, RBAC, and secure command execution.
+
+---
+
+### 🚀 Selected Impact
+* **Credit Scoring Engine:** Architected an automated, ML-driven credit scoring system for multi-tenant banking platforms.
+* **Causal Discovery:** Applied causal discovery techniques on financial inclusion datasets to model policy intervention impact.
+* **Security Hardening:** Implemented validation layers for tool use in agentic frameworks to mitigate RCE vulnerabilities.
+
+---
+
+### 📚 Currently Advancing
+Deepening enterprise LLM engineering expertise (RAG, fine-tuning, agents) through the **Andela AI Engineering Bootcamp**.
+
+---
+
+**Open to enterprise AI engineering and distributed systems opportunities.**
+
+### 📫 Connect
+- **Portfolio:** [habeneyasu.github.io](https://habeneyasu.github.io/)
+- **LinkedIn:** [linkedin.com/in/habeneyasu](https://www.linkedin.com/in/habeneyasu)
+- **Email:** habeneyasu@gmail.com
+- **Location:** Addis Ababa, Ethiopia
