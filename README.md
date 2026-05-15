@@ -1,46 +1,37 @@
 # 🚀 Haben Eyasu Akelom
-**Senior Software & Machine Learning Engineer | AI Systems & Fintech Infrastructure**
 
-I design and deploy production-grade AI systems and high-scale financial infrastructure with a security-first architecture.
+**Senior Software & AI Engineer** | Agentic AI · RAG Systems · Production MLOps
 
----
+[Portfolio](https://habeneyasu.github.io/) • [LinkedIn](https://www.linkedin.com/in/habeneyasu) • [Email](mailto:habeneyasu@gmail.com)
 
-### 🛠 What I Build
-* **Production LLM Systems:** RAG orchestration, fine-tuning workflows, and model evaluation.
-* **High-Scale Fintech APIs:** Secure, high-throughput microservices for regulated environments.
-* **Reliable MLOps Pipelines:** End-to-end experiment tracking, reproducibility, and monitoring.
-* **Hardened Agent Frameworks:** Safe tool-execution layers with validation, sandboxing, and RCE mitigation.
+I design and deploy production-grade AI systems and high-scale financial infrastructure. Ranked in the **Top 9% of the Andela AI Engineering cohort**, I specialize in bridging the gap between advanced Agentic AI and robust, cloud-native engineering.
 
----
+## 🤖 AI & ML Engineering (Agentic AI · RAG · MLOps)
 
-### 🤖 AI & ML Engineering
-* **LLM Orchestration:** RAG system design (FAISS, ChromaDB), agentic workflows, and prompt engineering.
-* **Fine-tuning:** QLoRA/LoRA workflows and model quantization for production efficiency.
-* **MLOps & Tooling:** MLflow, DVC, FastAPI, Docker, and real-time observability.
+- **Agentic Frameworks:** Orchestrating multi-agent systems using **LangGraph** and **CrewAI** with a focus on Human-in-the-Loop (HITL) workflows.
+- **Production RAG:** High-precision retrieval systems (FAISS, ChromaDB) optimized for enterprise knowledge bases.
+- **Production MLOps:** Reliable deployment pipelines using **FastAPI**, **Docker**, and **MLflow** with real-time observability.
+- **Security:** Hardening agent tool-execution layers against RCE and ensuring PII protection in LLM workflows.
 
-### 🔧 Software Architecture & Scale
-* **Backend & Scale:** Java (Spring Boot), Python (FastAPI), Kafka, Redis, and PostgreSQL.
-* **Enterprise Scale:** Architected systems processing **8M+ monthly transactions** with integrations across **30+ financial institutions** and **7 telecommunication operators**.
-* **Security & Identity:** OAuth2/JWT, AES-256 encryption, RBAC, and secure command execution.
+## ☁️ Cloud & Software Architecture (AWS · Terraform · Fintech)
 
----
+- **AWS Serverless & Containers:** Architecting scalable systems using **Amazon Bedrock**, **Lambda**, **ECS/ECR**, and **S3**.
+- **Infrastructure as Code:** Provisioning reproducible, secure environments with **Terraform**.
+- **Fintech at Scale:** Architected systems processing **8M+ monthly transactions** integrated across **30+ financial institutions** and **7 telecom operators**.
+- **Hardened Backend:** Deep expertise in Java (Spring Boot) and Python for highly regulated financial environments.
 
-### 🚀 Selected Impact
-* **Credit Scoring Engine:** Architected an automated, ML-driven credit scoring system for multi-tenant banking platforms.
-* **Causal Discovery:** Applied causal discovery techniques on financial inclusion datasets to model policy intervention impact.
-* **Security Hardening:** Implemented validation layers for tool use in agentic frameworks to mitigate RCE vulnerabilities.
+## 🚀 Key Impact & Recognition
 
----
+- **Andela AI Engineering:** Ranked in the **Top 9%** of the cohort for excellence in LLM orchestration and RAG optimization.
+- **10 Academy (KAIM):** Graduated with **Distinction** in AI Mastery (March 2026).
+- **Agentic Fraud Investigator:** Built a comprehensive fraud detection framework using agentic logic and LangGraph for high-stakes decision-making.
 
-### 📚 Currently Advancing
-Deepening enterprise LLM engineering expertise (RAG, fine-tuning, agents) through the **Andela AI Engineering Bootcamp**.
+## 🛠 Tech Stack
+
+- **AI/ML:** Amazon Bedrock, LangChain, LangGraph, Hugging Face, PyTorch.
+- **DevOps/Cloud:** AWS, Terraform, Docker, Kubernetes, GitHub Actions.
+- **Data/Backend:** PostgreSQL, Redis, Kafka, FastAPI, Spring Boot.
 
 ---
 
-**Open to enterprise AI engineering and distributed systems opportunities.**
-
-### 📫 Connect
-- **Portfolio:** [habeneyasu.github.io](https://habeneyasu.github.io/)
-- **LinkedIn:** [linkedin.com/in/habeneyasu](https://www.linkedin.com/in/habeneyasu)
-- **Email:** habeneyasu@gmail.com
-- **Location:** Addis Ababa, Ethiopia
+*Based in Addis Ababa, Ethiopia. Open to discussing Enterprise AI solutions and Distributed Systems.*
