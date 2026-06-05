@@ -1,6 +1,6 @@
 # 🚀 Haben Eyasu Akelom
 
-**Senior Software & AI Engineer** | Agentic AI · RAG Systems · Production MLOps
+**Tech Lead | Senior Software & AI Engineer** | Agentic AI · RAG Systems · Production MLOps
 
 [Portfolio](https://habeneyasu.github.io/) • [LinkedIn](https://www.linkedin.com/in/habeneyasu) • [Email](mailto:habeneyasu@gmail.com)
 
