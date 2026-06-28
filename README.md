@@ -12,7 +12,7 @@ Currently, I serve as an AAIF (Agentic AI Foundation) Ambassador, where I contri
 
 Alongside my ambassador work, I lead engineering initiatives in financial services, focusing on Agentic AI, Retrieval-Augmented Generation (RAG), distributed systems, and cloud-native architecture.
 
-**🏆 Recognition**
+## 🏆 Recognition
 
 - **🏅 AAIF Ambassador:** Inaugural Ambassador Cohort (2026)
 - **🏅 Top 9%:** Andela AI Engineering Program
