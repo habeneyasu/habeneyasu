@@ -14,11 +14,11 @@ Alongside my ambassador work, I lead engineering initiatives in financial servic
 
 **🏆 Recognition**
 
-🏅 AAIF Ambassador — Inaugural Ambassador Cohort (2026)
-🏅 Top 9% — Andela AI Engineering Program
-🎓 Graduated with Distinction — 10 Academy AI Mastery Program
-🔬 Research Contributor in Agentic AI for Financial Services
-🏦 Tech Lead building production AI and fintech platforms
+- **🏅 AAIF Ambassador:** Inaugural Ambassador Cohort (2026)
+- **🏅 Top 9%:** Andela AI Engineering Program
+- **🎓 Graduated with Distinction:** 10 Academy AI Mastery Program
+- **🔬 Research Contributor** in Agentic AI for Financial Services
+- **🏦 Tech Lead** building production AI and fintech platforms
 
 ## 🤖 AI & ML Engineering (Agentic AI · RAG · MLOps)
 
